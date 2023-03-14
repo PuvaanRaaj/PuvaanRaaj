@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 Facts about Me
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Developer" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2mulTXZ4A_wbhQROFxCCyG&ust=1678884354226000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCglt652_0CFQAAAAAdAAAAABAU" align="right" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2mulTXZ4A_wbhQROFxCCyG&ust=1678884354226000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCglt652_0CFQAAAAAdAAAAABAU")"><img alt="Developer" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2mulTXZ4A_wbhQROFxCCyG&ust=1678884354226000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCglt652_0CFQAAAAAdAAAAABAU" align="right" style="max-width:100%;"></a></p>
 
 - 🎓 Final Year Software Engineering Student from Universiti Tun Hussein Onn Malaysia (🇲🇾)
 - 🙇🏻‍♂️ 
