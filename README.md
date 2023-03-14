@@ -87,7 +87,7 @@
 ### ⚙️ GitHub Analytics
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=puvaanraajshow_icons=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api?username=puvaanraaj&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puvaanraaj&layout=compact&theme=react&langs_count=8">
 </p>
 
