@@ -87,10 +87,11 @@
 ### ⚙️ GitHub Analytics
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=puvaanraaj&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puvaanraaj&layout=compact&theme=react&langs_count=8">
 </p>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=puvaanraaj&show_icons=true&theme=react">
+</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdrhmn&theme=dark)](https://git.io/streak-stats)
 
