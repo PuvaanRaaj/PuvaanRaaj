@@ -91,11 +91,13 @@
 <img src="https://img.shields.io/badge/AZ--900-Passed-0066B8?style=for-the-badge&logo=microsoft&logoColor=white"> 
 <img src="https://img.shields.io/badge/AI--900-Passed-0066B8?style=for-the-badge&logo=microsoft&logoColor=white"> 
 <img src="https://img.shields.io/badge/DP--900-Passed-0066B8?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/MS--900-Passed-0066B8?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/PL--900-Passed-0066B8?style=for-the-badge&logo=microsoft&logoColor=white">
 
 <br/>
 
 ### <img src="https://img.shields.io/badge/-Meta-1877F2?style=flat&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/Meta_Front_End_Developer_Professional-2%2F9_Passed-1877F2?style=for-the-badge&logo=meta&logoColor=white">
+<img src="https://img.shields.io/badge/Meta_Front_End_Developer_Professional-2%6F9_Passed-1877F2?style=for-the-badge&logo=meta&logoColor=white">
 
 <br/>
 
