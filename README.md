@@ -15,6 +15,18 @@
 
 <br />
 
+## 🌐 My Projects
+
+Here are a few projects I've recently worked on:
+### [Weather Web App](https://weather-web-app.example.com](https://weather-webapp-jdgl.onrender.com/)
+
+This is a weather forecasting web application that uses the OpenWeatherMap API to get real-time weather data. The application takes a location as input from the user and provides various weather parameters such as temperature, humidity, wind speed, and a description of the weather conditions.
+
+Not only does this app demonstrate my skills in working with APIs and handling JSON data, but it also showcases my frontend development skills, with a user-friendly and responsive design that works on devices of all sizes.
+
+The tech stack used for this project includes HTML, CSS, JavaScript, and Node.js for the backend server. The project is hosted on Render.
+
+<br />
 ### 🛠 Tech Stack
 
 **🌐 Languages:**
