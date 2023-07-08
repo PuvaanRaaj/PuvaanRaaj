@@ -26,6 +26,49 @@ Not only does this app demonstrate my skills in working with APIs and handling J
 
 The tech stack used for this project includes HTML, CSS, JavaScript, and Node.js for the backend server. The project is hosted on Render.
 
+### [Awesome Store E-commerce Website](https://awesomestore-ecommerce.netlify.app/)
+
+The Awesome Store E-commerce Website is a comprehensive online retail platform designed to provide a seamless shopping experience for customers and efficient store management for the administrator. I crafted this as a hobby project to challenge myself and learn more about full-stack development.
+
+This website boasts a robust set of features, including:
+
+- User registration/login
+- Product and category management
+- Promotional coupon creation
+- Order processing
+- Secure payment integration
+- Customer product reviews
+
+This system was created with the aim of keeping online inventory accurate, facilitating easy navigation for customers, encouraging customer loyalty through promotions, streamlining the order management process, and gathering valuable customer feedback through reviews.
+
+Despite certain limitations like single admin usage and limited third-party integrations, the platform serves as a solid foundation for an e-commerce business. It offers both user-friendly interfaces for customers and powerful management tools for store owners.
+
+The tech stack used for this project includes Node.js, Express.js, and React.js for frontend. The project is hosted on Netlify.
+
+![Awesome Store E-commerce Website](./images/portfolio/MERNstack.png)
+
+You can preview the site [here](https://awesomestore-ecommerce.netlify.app/).
+
+### [SK FARM Livestock Management System](https://skfarm.online)
+
+The SK FARM Livestock Management System (LMS) is a comprehensive, web-based platform designed to streamline the daily operations of livestock businesses. Developed for Mr Saravana Kumar, the LMS is a robust solution to the unique challenges faced by livestock enterprises.
+
+This user-friendly system allows owners to efficiently manage various aspects of their enterprise, such as:
+
+- Financial information
+- Employee data
+- Payments
+
+The system is accessible 24/7 from any device with an internet connection and a browser, ensuring availability whenever and wherever needed. It features secure login and registration processes, as well as the ability to modify account details.
+
+By centralizing and automating essential tasks, the LMS empowers livestock business owners to save time, enhance productivity, and focus on growing their operations.
+
+The tech stack used for this project includes JavaScript and PHP, with Laravel as the framework. 
+
+You can preview the system [here](https://skfarm.online).
+
+![SK FARM Livestock Management System](./images/portfolio/SKFARMADMINDASHBOARD.png)
+
 <br />
 ### 🛠 Tech Stack
 
