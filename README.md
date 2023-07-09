@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Puvaan
+## 👋 I'm Puvaan
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpuvaanraaj&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpuvaanraaj)
 
