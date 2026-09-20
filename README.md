@@ -1,43 +1,34 @@
-## 👋 Hey there, I'm Puvaan
+# Hi, I’m Puvaan
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpuvaanraaj\&label=Total%20profile%20visits\&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpuvaanraaj)
+**Software Engineer · SRE · AI R&D Lead**
 
-### 👨🏻‍💻 About Me
+Based in Malaysia.
 
-<img align="right" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  width="400">
+I build software, keep production systems reliable, and lead AI research and development. My work spans backend engineering, infrastructure and observability, and AI tools that solve practical problems.
 
-* 🎓 Software Engineer (🇲🇾)
-* 💡 Passionate about solving real-world problems through code
-* ✍️ I dive into emerging technologies, and enjoy writing and reading
-* 🌌 Space & astronomy enthusiast aiming to contribute to astro-tech
-* ⚡ Fun fact: I'm a developer turned tech explorer
+[Website](https://www.puvaan.dev) · [LinkedIn](https://www.linkedin.com/in/puvaan-raaj)
 
----
+## What I work on
 
-## 📈 GitHub Stats & Contributions
+- **Software engineering** — backend services, APIs, and developer tools.
+- **Site reliability** — infrastructure, observability, incident response, and automation.
+- **AI research & development** — applied AI, agent workflows, and tools that connect models to real systems.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puvaanraaj&layout=compact&theme=react&langs_count=8">
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puvaanraaj&theme=dark">
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puvaanraaj&theme=vue">
-</p>
+## Selected projects
 
+| Project | What it does |
+| --- | --- |
+| [TabBridge](https://github.com/PuvaanRaaj/TabBridge) | Local-first browser automation for MCP clients and deterministic workflows. |
+| [ghostwrite](https://github.com/PuvaanRaaj/ghostwrite) | Tracks AI-generated code provenance in Git repositories. |
+| [skillkit](https://github.com/PuvaanRaaj/skillkit) | Defines agent rules once and syncs them across coding assistants. |
+| [sentinel-alert-app](https://github.com/PuvaanRaaj/sentinel-alert-app) | A real-time incident viewer with alerts and on-call state management. |
+| [s3-log-explorer](https://github.com/PuvaanRaaj/s3-log-explorer) | Queries S3 and local log files with SQL and keyword filtering. |
+| [payment-flow-cli](https://github.com/PuvaanRaaj/payment-flow-cli) | Simulates payment processing with state machines, idempotency, and precise decimal handling. |
 
----
+## Tools I use
 
-## 📫 Let's Connect
+Go · PHP / Laravel · TypeScript / Next.js · Docker · Terraform · AWS
 
-<p>
-  <a href="mailto:puvaanraaj2001@gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/puvaanraaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## Beyond the terminal
 
----
-
-### ✍️ Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+Interested in space, astronomy, and where software can contribute to both.
