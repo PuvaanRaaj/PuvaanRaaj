@@ -89,7 +89,7 @@ off_hours:     [space, astronomy]
 - [The Agent Is Only as Good as Its Data: Why I Think Data Engineering Matters More in the Agentic Era](https://puvaan.dev/posts/data-engineering-in-the-agentic-era/)
 - [What Seven Internal Tools Taught Me](https://puvaan.dev/posts/what-building-seven-tools-taught-me/)
 - [How I Actually Build AI-Native Tools: Guardrails, Agent Selection, and Containers](https://puvaan.dev/posts/how-i-build-ai-native-tools/)
-- [I Kept Doing More Until I Couldn't: On Burnout and Learning When to Stop](https://puvaan.dev/posts/learning-when-to-stop/)
+- [I Kept Doing More Until I Couldn&#39;t: On Burnout and Learning When to Stop](https://puvaan.dev/posts/learning-when-to-stop/)
 - [Two Years In, From One Era to Another: On Adapting Faster Than People Are Ready For](https://puvaan.dev/posts/two-years-in-the-ai-era/)
 <!-- BLOG-POST-LIST:END -->
 
