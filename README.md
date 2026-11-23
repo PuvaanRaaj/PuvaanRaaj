@@ -48,7 +48,6 @@ off_hours:     [space, astronomy]
 | [**wiki-kit**](https://github.com/PuvaanRaaj/wiki-kit) | Agent-operated personal wiki — one shared memory across parallel Claude Code, Codex, OpenCode and Gemini sessions |
 | [**skillkit**](https://github.com/PuvaanRaaj/skillkit) | Define agent rules once, sync to AGENTS.md, Cursor, Claude, Copilot and more |
 | [**andrej-karpathy-agent-rules**](https://github.com/PuvaanRaaj/andrej-karpathy-agent-rules) | Cross-agent coding rules for Claude Code, Cursor, Gemini CLI, Codex and any AGENTS.md tool |
-| [**claude-code-fintech-stack**](https://github.com/PuvaanRaaj/claude-code-fintech-stack) | Claude Code plugin for payment stacks — PHP/Laravel, Go, ISO 8583, Vue/React, Bun |
 
 **🤖 AI & agent tooling**
 
